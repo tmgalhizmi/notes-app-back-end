@@ -1,2 +1,4 @@
 node_modules
 notes-api-webserver.pem
+.github-token.txt
+ghazi_credentials.csv
